@@ -1,0 +1,19 @@
+{
+  "name": "batch5multidivision",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vsk106/batch5MultiDivision.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vsk106/batch5MultiDivision/issues"
+  },
+  "homepage": "https://github.com/vsk106/batch5MultiDivision#readme"
+}
